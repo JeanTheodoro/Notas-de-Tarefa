@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ceep.iml" filepath="$PROJECT_DIR$/ceep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ceep-recyclerview-parte2-aula-5.iml" filepath="$PROJECT_DIR$/.idea/modules/ceep-recyclerview-parte2-aula-5.iml" group="ceep-recyclerview-parte2-aula-5" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ceep-recyclerview-parte2-aula-5-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ceep-recyclerview-parte2-aula-5-app.iml" group="ceep-recyclerview-parte2-aula-5/app" />
+    </modules>
+  </component>
+</project>
